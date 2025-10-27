@@ -1,62 +1,58 @@
-# Este archivo contiene los datos de nuestros Pokeneas
-# Los mantenemos aquí separados para seguir el principio de separación de responsabilidades
-
 POKENEAS = [
     {
         "id": 1,
-        "nombre": "Paisa",
-        "altura": 1.7,
-        "habilidad": "Negociación",
-        
-        "imagen": "paisa.png",
-        "frase_filosofica": "Más vale pájaro en mano que ciento volando, parce"
+        "nombre": "CharriZeta",
+        "altura": 1.75,
+        "habilidad": "Sopla fuego de bandeja paisa",
+        "imagen": "charizard.png",
+        "frase_filosofica": "El que madruga, alcanza el sancocho caliente."
     },
     {
         "id": 2,
-        "nombre": "Antioqueño",
-        "altura": 1.65,
-        "habilidad": "Emprendimiento",
-        "imagen": "antioqueno.png",
-        "frase_filosofica": "El que no arriesga no gana, ¿o qué?"
+        "nombre": "Charmanderito",
+        "altura": 1.20,
+        "habilidad": "Encender el fogón con pura mirada",
+        "imagen": "charmander.jpg",
+        "frase_filosofica": "Más vale una llama encendida que mil excusas apagadas."
     },
     {
         "id": 3,
-        "nombre": "Montañero",
-        "altura": 1.75,
-        "habilidad": "Resistencia",
-        "imagen": "montanero.png",
-        "frase_filosofica": "Pa' arriba y pa' lante, compadre"
+        "nombre": "Bulbantioquia",
+        "altura": 0.95,
+        "habilidad": "Hace florecer las matas con solo cantar",
+        "imagen": "bulbasaur.jpg",
+        "frase_filosofica": "Si el café está fuerte, la vida es buena."
     },
     {
         "id": 4,
-        "nombre": "Arriero",
-        "altura": 1.68,
-        "habilidad": "Persistencia",
-        "imagen": "arriero.png",
-        "frase_filosofica": "Arriero que duerme pierde la mula"
+        "nombre": "Squirteliao",
+        "altura": 1.10,
+        "habilidad": "Lanza chorros de aguapanela helada",
+        "imagen": "squirtle.jpg",
+        "frase_filosofica": "A veces hay que fluir como el río Medellín después de lluvia."
     },
     {
         "id": 5,
-        "nombre": "Cafetero",
-        "altura": 1.72,
-        "habilidad": "Dedicación",
-        "imagen": "cafetero.png",
-        "frase_filosofica": "El café no se recoge solo, mijo"
+        "nombre": "Pikachurro",
+        "altura": 0.60,
+        "habilidad": "Electrificar la rumba con solo una sonrisa",
+        "imagen": "pikachu.jpg",
+        "frase_filosofica": "El que no arriesga, no conoce la corriente."
     },
     {
         "id": 6,
-        "nombre": "Silletero",
-        "altura": 1.80,
-        "habilidad": "Fuerza",
-        "imagen": "silletero.png",
-        "frase_filosofica": "Con fe y con flores todo se puede"
+        "nombre": "Rattantioqueño",
+        "altura": 0.45,
+        "habilidad": "Robarse el show y el último buñuelo",
+        "imagen": "rattata.png",
+        "frase_filosofica": "En cada esquina hay una oportunidad, o una empanada."
     },
     {
         "id": 7,
-        "nombre": "Veredero",
-        "altura": 1.70,
-        "habilidad": "Sabiduría",
-        "imagen": "veredero.png",
-        "frase_filosofica": "Del campo viene la vida, parcero"
-    }
+        "nombre": "Nidoking del Parque Berrío",
+        "altura": 2.00,
+        "habilidad": "Proteger a su combo con pura vibra paisa",
+        "imagen": "nidoking.jpg",
+        "frase_filosofica": "Reinar no es mandar, es cuidar a los tuyos."
+    },
 ]
