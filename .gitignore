@@ -1,0 +1,19 @@
+# Variables de entorno (IMPORTANTE: no subir credenciales)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+env/
+.Python
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
