@@ -16,10 +16,6 @@ def index():
 
     image_url = get_s3_image_url(random_pokenea['imagen'])
     
-    # Debug: imprime la URL generada
-    print(f"DEBUG - Image URL: {image_url}")
-    print(f"DEBUG - Pokenea imagen: {random_pokenea['imagen']}")
-
     pokenea_con_url = random_pokenea.copy()
     pokenea_con_url['imagen'] = image_url
     
